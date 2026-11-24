@@ -1,5 +1,5 @@
 emp={
-     "Name": "Shruti",
+     "Name": "Sumit",
      'age':19,
      'ID':"XYZ",
      "Department":"IT",
